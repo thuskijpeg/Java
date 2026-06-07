@@ -1,0 +1,10 @@
+A258#Dan Tloome#35#23
+A294#Sasolburg#23#21
+A443#Joburg Jives#24#21
+A675#Golden Eagles#27#37
+A754#Stilfontein#30#19
+P153#Makwassie Hills#17#5#0
+P324#Wedela Wonders#10#4#8
+P384#Keagile Kings#11#6#8
+P574#Diretsane Dragons#9#8#7
+P976#Nelsonia#8#6#10
