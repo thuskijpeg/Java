@@ -98,8 +98,8 @@ Technology Student focused on continuous learning, skill growth, and exploring d
 
 ### Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/thusano-masalesa](http://www.linkedin.com/in/thusano-masalesa)
-* GitHub: github.com/yourusername
+* LinkedIn: www.linkedin.com/in/thusano-masalesa-b4744a3a2
+* GitHub: github.com/thuskijpeg
 
 ## License
 
